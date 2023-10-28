@@ -23,7 +23,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
   <Header />
   <main id="main-content">
     <section id="hero">
-      <h1 class="mr-2">Mingalaba</h1>
+      <h1 class="mr-2">varnava.live</h1>
       <a
         target="_blank"
         href="/rss.xml"
@@ -40,26 +40,14 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         </svg>
       </a>
 
-      <p>
-        AstroPaper is a minimal, responsive, accessible and SEO-friendly Astro
-        blog theme. This theme follows best practices and provides accessibility
-        out of the box. Light and dark mode are supported by default. Moreover,
-        additional color schemes can also be configured.
-      </p>
-      <p>
-        Read the blog posts or check
-        <LinkButton
-          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
-      </p>
+      <p>I'm Artsiom Varnava, a Belarusian currently residing in Poland. By profession, I delve into the world of frontend development, and in my leisure, I immerse myself in a diverse array of passions—from the strategic intensity of American football to the rhythmic realms of music creation and DJing. Motorcycling adds a thrilling dimension to my pursuits.</p>
+      <p>In this space, I aspire to curate a blend of valuable insights, personal reflections, and perhaps a glimpse into my visual narrative. It may seem like a receptacle for assorted interests, akin to a digital treasure trove. However, I would be delighted if you discover something intriguing amidst this eclectic mix.</p>
+      <p>As I navigate the evolving contours of this space, consider this description a work in progress—a canvas waiting for more strokes of expression. Stay tuned for updates and discoveries! :)</p>
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
           <div class="social-wrapper">
-            <div class="social-links">Social Links:</div>
+            <div class="social-links">Reach me out here:</div>
             <Socials />
           </div>
         )

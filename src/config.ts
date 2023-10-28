@@ -1,10 +1,10 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
+  website: "https://varnava.live/",
+  author: "Artsiom Varnava",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  title: "Artsiom Varnava",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -21,34 +21,40 @@ export const LOGO_IMAGE = {
 
 export const SOCIALS: SocialObjects = [
   {
+    name: "Mail",
+    href: "mailto:Artem.Varnava@gmail.com",
+    linkTitle: `Send an email to ${SITE.title}`,
+    active: true,
+  },
+  {
+    name: "Telegram",
+    href: "https://t.me/wicked_kiD",
+    linkTitle: `${SITE.title} on Telegram`,
+    active: true,
+  },
+  {
+    name: "LinkedIn",
+    href: "https://www.linkedin.com/in/artsiom-varnava/",
+    linkTitle: `${SITE.title} on LinkedIn`,
+    active: true,
+  },
+  {
     name: "Github",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://github.com/wicked-kiD/",
     linkTitle: ` ${SITE.title} on Github`,
     active: true,
   },
   {
     name: "Facebook",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.facebook.com/artsiom.varnava/",
     linkTitle: `${SITE.title} on Facebook`,
     active: true,
   },
   {
     name: "Instagram",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.instagram.com/artsiom_varnava/",
     linkTitle: `${SITE.title} on Instagram`,
     active: true,
-  },
-  {
-    name: "LinkedIn",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on LinkedIn`,
-    active: true,
-  },
-  {
-    name: "Mail",
-    href: "mailto:yourmail@gmail.com",
-    linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
   },
   {
     name: "Twitter",
@@ -126,12 +132,6 @@ export const SOCIALS: SocialObjects = [
     name: "Steam",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Steam`,
-    active: false,
-  },
-  {
-    name: "Telegram",
-    href: "https://github.com/satnaing/astro-paper",
-    linkTitle: `${SITE.title} on Telegram`,
     active: false,
   },
   {
