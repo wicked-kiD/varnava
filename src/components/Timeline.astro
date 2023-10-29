@@ -12,7 +12,7 @@ const { location, date, position, description, isLast = false } = Astro.props;
 
 <div class="timeline-card">
   <p class="location">{location}</p>
-  <div class=`time-role after ${!isLast && 'before' }`>
+  <div class=`time-role ${isLast ? 'after' : 'before after' }`>
     <time class="time">{date}</time>
     <h4 class="position">{position}</h4>
   </div>
