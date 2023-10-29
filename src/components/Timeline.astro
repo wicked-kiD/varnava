@@ -1,0 +1,49 @@
+---
+export interface Props {
+  location: string;
+  date: string;
+  position: string;
+  description: string;
+  isLast?: boolean;
+}
+
+const { location, date, position, description, isLast = false } = Astro.props;
+---
+
+<div class="timeline-card">
+  <p class="location">{location}</p>
+  <div class=`time-role after ${!isLast && 'before' }`>
+    <time class="time">{date}</time>
+    <h4 class="position">{position}</h4>
+  </div>
+  <p class="description">
+    {description}
+  </p>
+</div>
+
+<style>
+  .timeline-card {
+    @apply relative py-2 pl-8 sm:pl-32;
+  }
+  .location {
+    @apply my-2;
+  }
+  .time-role {
+    @apply mb-1 flex flex-col items-start group-last:before:hidden sm:flex-row;
+  }
+  .before {
+    @apply before:absolute before:left-2 before:h-full before:-translate-x-1/2 before:translate-y-3 before:self-start before:bg-skin-accent before:px-px sm:before:left-0 sm:before:ml-[6.5rem];
+  }
+  .after {
+    @apply after:absolute after:left-2 after:box-content after:h-2 after:w-2 after:-translate-x-1/2 after:translate-y-1.5 after:rounded-full after:border-4 after:border-skin-line after:bg-skin-accent sm:after:left-0 sm:after:ml-[6.5rem];
+  }
+  .time {
+    @apply left-0 mb-3 inline-flex h-6 w-20 translate-y-0.5 items-center justify-center rounded-full bg-skin-accent text-xs font-semibold uppercase text-skin-inverted sm:absolute sm:mb-0;
+  }
+  .position {
+    @apply mb-0 mt-0 text-xl;
+  }
+  .description {
+    @apply mt-0 text-sm;
+  }
+</style>
