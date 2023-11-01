@@ -3,9 +3,9 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://varnava.live/",
   author: "Artsiom Varnava",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "My personal website about everything",
   title: "Artsiom Varnava",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "site-preview.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
