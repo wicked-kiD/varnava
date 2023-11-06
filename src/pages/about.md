@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-## Hi, I'm software engineer 👋
+## Hi, I'm a software engineer 👋
 
 - Over seven years of dedicated expertise in frontend development
 - Demonstrated proficiency in key technologies, including JavaScript, CSS, and HTML, with an emphasis on continuous skill enhancement

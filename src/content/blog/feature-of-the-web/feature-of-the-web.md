@@ -1,7 +1,7 @@
 ---
 author: Artsiom Varnava
 pubDatetime: 2022-11-06T16:31:00Z
-title: Why static site generators like Astro are future of the web?
+title: Why static site generators such as Astro are future of the web?
 postSlug: feature-of-the-web
 featured: false
 draft: false
