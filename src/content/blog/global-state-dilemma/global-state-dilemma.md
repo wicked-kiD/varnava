@@ -10,12 +10,12 @@ tags:
   - javascript
   - react
   - mobx
-description: State management in React is a crucial aspect of building scalable and maintainable applications. Among the myriad of state management solutions available, MobX stands out for its simplicity and flexibility. However, the question often arises - when should you embrace global state using MobX, and when is it better to avoid it?
+description: State management in React is a crucial aspect of building scalable and maintainable applications. Among the myriad of state management solutions available, MobX stands out for its simplicity and flexibility. However, the question often arises - when should you embrace global state using MobX and when is it better to avoid it?
 ---
 
 ![Try to change my mind](./you-cant-change-my-mind.jpg)
 
-State management in React is a crucial aspect of building scalable and maintainable applications. Among the myriad of state management solutions available, MobX stands out for its simplicity and flexibility. However, the question often arises - when should you embrace global state using MobX, and when is it better to avoid it?
+State management in React is a crucial aspect of building scalable and maintainable applications. Among the myriad of state management solutions available, MobX stands out for its simplicity and flexibility. However, the question often arises - when should you embrace global state using MobX and when is it better to avoid it?
 
 ## The Global State Advantage
 
@@ -59,4 +59,4 @@ In some cases, using global state for every piece of data in your application mi
 
 ## Conclusion
 
-In conclusion, I want to outline that the decision to use global state in a React application depends on factors like application size, data-sharing requirements, and the need for a consistent state. Striking a balance between simplicity and scalability is key to effective state management with MobX in React.
+In conclusion, I want to outline that the decision to use global state in a React application depends on factors like application size, data-sharing requirements and the need for a consistent state. Striking a balance between simplicity and scalability is key to effective state management with MobX in React.

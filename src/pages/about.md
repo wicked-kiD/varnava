@@ -3,17 +3,8 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-## Hi, I'm a software engineer 👋
+Hey there! I'm Artsiom Varnava, a guy from Belarus living in Poland. I work in frontend development and in my free time, I'm into American football, making music and riding motorcycles for that extra thrill.
 
-- Over 7 years of dedicated expertise in frontend development
-- Demonstrated proficiency in key technologies, including JavaScript, CSS, and HTML, with an emphasis on continuous skill enhancement
-- Extensive hands-on experience with leading frameworks such as React, Angular, Vue.js and Stencil
-- Proficient in Node.js, Deno, Webpack, Vite, and Git, showcasing a comprehensive understanding of backend and build tools
-- Accomplished in SEO strategies and frontend optimization techniques, contributing to enhanced project performance
-- Characterized by attentiveness, self-motivation, rapid learning agility, and a purpose-driven approach to tasks
-- Exceptional skills in eliciting and clarifying project requirements, ensuring a thorough understanding of client needs
-- Seasoned in Agile methodologies, particularly Scrum, with a proven track record of successful collaborative teamwork
-- Proficient in task estimation through extensive experience and a systematic approach
-- Excellent communication skills, facilitating effective collaboration and information exchange within project teams
-- Informed and adaptive to the latest advancements in the frontend development landscape
-- A dedicated team player, committed to fostering a collaborative and productive work environment
+On this page, I want to share interesting thoughts, personal stories and maybe give you a peek into my visual adventures. It's like a digital treasure chest of my various interests. I hope you find something cool in this mix.
+
+As I keep adding stuff here, think of this description as a work in progress - a canvas that's ready for more expression. Stay tuned for updates and cool finds!

@@ -5,6 +5,7 @@ import Footer from "@components/Footer.astro";
 import Header from "@components/Header.astro";
 import Layout from "./Layout.astro";
 import Timeline from "../components/Timeline.astro";
+import LinkButton from "../components/LinkButton.astro";
 
 export interface Props {
   frontmatter: {
@@ -25,58 +26,19 @@ const { frontmatter } = Astro.props;
       <section>
         <img
           src="/assets/artsiom.webp"
-          class="mx-auto sm:w-1/2"
+          class="float-right mx-auto sm:w-1/3"
           alt="Artsiom Varnava"
         />
-        <div>
-          <slot />
-        </div>
-      </section>
-      <section>
-        <h2>Experience</h2>
 
-        <Timeline
-          location="Altoros, Poland"
-          date="Jan, 2022"
-          position="Lead Software Engineer"
-          description="As a Lead Frontend Engineer, I orchestrate the symphony of user experiences, leading a team in crafting intuitive and visually compelling interfaces. My role involves not just mastering cutting-edge technologies and frameworks, but also steering the strategic direction of frontend development. From architecting robust solutions to mentoring and inspiring the team, I am dedicated to pushing the boundaries of innovation, ensuring our digital presence resonates with excellence."
-        />
+        <slot />
 
-        <Timeline
-          location="EPAM, Poland"
-          date="Jan, 2021"
-          position="Senior Software Engineer"
-          description="I intricately weave together code and creativity to craft sophisticated and responsive user interfaces. Drawing upon extensive experience, I bring a nuanced understanding of frontend technologies and frameworks, ensuring elegant solutions to complex problems. Collaborating closely with cross-functional teams, my role involves not just coding, but also mentoring and guiding junior developers, contributing to a dynamic and knowledge-sharing environment. With a focus on optimizing performance and user experience, I consistently strive to push the boundaries of innovation in frontend development."
-        />
-
-        <Timeline
-          location="EPAM, Belarus"
-          date="Sep, 2018"
-          position="Software Engineer / Senior Software Engineer"
-          description="Balancing technical proficiency with collaborative leadership, I actively contribute to coding tasks while mentoring junior team members. My role involves navigating the evolving landscape of frontend technologies, refining skills, and translating design concepts into functional, visually compelling realities. Positioned at the nexus of experience and innovation, I play a key role in ensuring the seamless integration of best practices, delivering impactful frontend solutions that marry cutting-edge design with optimal user experience."
-        />
-
-        <Timeline
-          location="Ateagroup, Israel"
-          date="Jan, 2017"
-          position="Fronted Developer"
-          description="Navigating the landscapes of WordPress, I specialize in crafting dynamic and user-friendly online experiences. With WordPress, I harness the flexibility of themes and customization to create visually compelling websites, seamlessly integrating content and functionality. Proficient in frontend technologies, I ensure a cohesive and responsive user interface, striving to marry aesthetic appeal with intuitive navigation for a standout online presence. Whether it's content-driven websites or other digital solutions, I'm adept at tailoring online experiences that leave a lasting impression."
-        />
-
-        <Timeline
-          location="Zephoria, USA"
-          date="Feb, 2016"
-          position="Fronted Developer"
-          description="I bring expertise in crafting engaging digital experiences using WordPress. Proficient in HTML, CSS, and JavaScript, I leverage the power of WordPress themes and customization to transform design concepts into functional and visually appealing websites. My skills include integrating plugins, optimizing performance, and ensuring a seamless user experience within the WordPress ecosystem. Committed to staying current with WordPress developments, I am dedicated to delivering websites that combine aesthetic appeal with the flexibility and scalability offered by the WordPress platform."
-        />
-
-        <Timeline
-          isLast={true}
-          location="Estimatix, Kazakhstan"
-          date="Jan, 2015"
-          position="Junior Fronted Developer"
-          description="As a Frontend Developer specializing in website creation, my expertise lies in the seamless integration of JavaScript, HTML, and CSS to craft visually stunning and highly functional websites. Leveraging the power of these languages, I transform design concepts into responsive and interactive digital experiences. With a keen eye for detail and a commitment to optimal user experiences, I navigate the intricacies of frontend development to ensure that websites not only meet design specifications but also prioritize intuitive navigation and visual appeal."
-        />
+        <p>
+          If you are interested in my professional experience, please visit my <LinkButton
+            href="/cv"
+          >
+            CV page
+          </LinkButton>.
+        </p>
       </section>
     </section>
   </main>
