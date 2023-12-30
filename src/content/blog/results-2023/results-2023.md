@@ -61,7 +61,7 @@ The most important thing, of course, is the purchase of my first home. Yes, it's
 
 ### Loss of My Cat
 
-I can't write much about this; it's the biggest blow for me this year. My cat had some health issues that doctors couldn't diagnose. It's a massive blow that still lingers over time. I loved my cat dearly, and he'll forever remain in my heart. I understand that these things happen and you have to move on, but every time I think about it, tears well up. Chewbacca, I miss you terribly.
+I can't write much about this. It's the biggest blow for me this year. My cat had some health issues that doctors couldn't diagnose. It's a massive blow that still lingers over time. I loved my cat dearly, and he'll forever remain in my heart. I understand that these things happen and you have to move on, but every time I think about it, tears well up. Chewbacca, I miss you terribly.
 
 ### CrossFit
 
@@ -69,13 +69,13 @@ After I had to give up American football due to a shoulder injury, it took me a 
 
 ### Music
 
-This year was rich in concerts; I attended amazing shows by SlipKnot, Nick Cave, and Enter Shikari. Surprisingly, I made a couple of music discoveries, which is rare for me. Now, they don't leave my playlists, and I'm thrilled that, for the first time in a while, I found something new for myself. Here are three discoveries that might interest you:
+This year was rich in concerts. I attended amazing shows by SlipKnot, Nick Cave, and Enter Shikari. Surprisingly, I made a couple of music discoveries, which is rare for me. Now, they don't leave my playlists, and I'm thrilled that, for the first time in a while, I found something new for myself. Here are three discoveries that might interest you:
 
 - [Ren - Hi Ren](https://www.youtube.com/watch?v=s_nc1IVoMxc&ab_channel=Ren)
 - [Charlotte Adigéry & Bolis Pupul - Ceci n'est pas un cliché](https://www.youtube.com/watch?v=37eaA3aWYtM&ab_channel=CharlotteAdig%C3%A9ry%26BolisPupul)
 - [Christian Löffler - Haul](https://www.youtube.com/watch?v=_K-isImH-jc&ab_channel=ChristianL%C3%B6ffler)
 
-I also remembered wanting to go to a festival where Christian Löffler was supposed to perform and discovered a fascinating representative of Polish music. It reminded me of the times when I was part of the LaBo group. I'll share it; maybe you'll find it interesting:
+I also remembered wanting to go to a festival where Christian Löffler was supposed to perform and discovered a fascinating representative of Polish music. It reminded me of the times when I was part of the LaBo group. I'll share it, maybe you'll find it interesting:
 
 - [ZDECHŁY OSA - GTA WROCŁAW](https://www.youtube.com/watch?v=5ubUY3j_MJ0&ab_channel=ZDECH%C5%81YOSA)
 
@@ -83,7 +83,7 @@ I didn't make it to the festival, unfortunately. We decided to fly to Israel at 
 
 ### Drones
 
-I've always been interested in drones, especially FPV. I watched various videos and thought it would be cool to learn FPV flying, shoot cool videos, and, who knows, if IT ever collapses, become a drone operator. Progress is slow, but I've bought equipment and practice in a simulator. Later, I plan to buy my first tinywhoop to try my skills on a real drone. Let's see if this interest turns into something; I'll keep you posted. There's one problem, though. I haven't tried flying with goggles yet, and it's likely that I'll get motion sickness and won't be able to cope. But for now, I hope for the best and slowly move in that direction.
+I've always been interested in drones, especially FPV. I watched various videos and thought it would be cool to learn FPV flying, shoot cool videos, and, who knows, if IT ever collapses, become a drone operator. Progress is slow, but I've bought equipment and practice in a simulator. Later, I plan to buy my first tinywhoop to try my skills on a real drone. Let's see if this interest turns into something. I'll keep you posted. There's one problem, though. I haven't tried flying with goggles yet, and it's likely that I'll get motion sickness and won't be able to cope. But for now, I hope for the best and slowly move in that direction.
 
 ## Conclusion
 
