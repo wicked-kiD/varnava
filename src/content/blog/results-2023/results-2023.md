@@ -1,81 +1,90 @@
 ---
 author: Artsiom Varnava
-pubDatetime: 2023-12-30T21:00:00Z
-title: Results 2023
+pubDatetime: 2023-12-30T21:40:00Z
+title: The results of 2023
 postSlug: results-2023
 featured: true
-draft: true
+draft: false
 tags:
   - results
-description: Results 2023
+  - music
+  - tools
+  - astro
+  - vite
+  - biome
+  - ai
+  - crossfit
+  - drones
+  - personal
+description: The year turned out to be quite ambiguous, with a lot of terrible events happening around, constantly throwing things off track. However, there were also good events that helped avoid despair and keep moving forward. The text may be a bit jumbled, but I'll try to gather all my thoughts together so that, after many years, I can reread it and remember what 2023 was like.
 ---
 
-Год вышел очень неодназначный, происходило очень много ужасных событий вокруг, которые постоянно выбивали из колеи. Но так же в этом году и были хорошие события, которые помогали не впасть в отчаянье и продолжать двигаться вперед. Текст получится довольно сумбурным, но я постараюсь собрать все мысли воедино чтобы спустя много лет перечитать и вспомнить каким был 2023 год.
+The year turned out to be quite ambiguous, with a lot of terrible events happening around, constantly throwing things off track. However, there were also good events that helped avoid despair and keep moving forward. The text may be a bit jumbled, but I'll try to gather all my thoughts together so that, after many years, I can reread it and remember what 2023 was like.
 
-Для удобства, я разделю пост на два больших раздела: личное и профессиональное. Если вдруг это будет читать кто-то кроме меня, будет проще скипнуть раздел, который не интересен.
+For convenience, I'll divide the post into two major sections: personal and professional. If someone other than me happens to read this, it'll be easier to skip the section that isn't interesting.
 
-## Профессиональное
+## Professional
 
-### Тулы:
+### Tools:
 
 #### Vite
 
-Создав свой рабочий проект, используя Vite в начале 2021го года, у меня были небольшие сомнения по поводу использования данного инструмена для сорки проектов. Целый год я пользовался им и не встречал никаких проблем и, в целом, всё бы и было так дальше и в следующий раз я бы в очередной раз задумался бы, а какой инструмент использовать. Но, пару небольших проектов, с которыми меня попросили помочь в конце года используют Webpack и, поработав с ними, я точно понял, что Vite стал для меня дефакто тулом по-умолчанию.
+Having started my work project using Vite in early 2021, I had some doubts about using this tool for project setup. Throughout the year, I used it without encountering any problems, and overall, everything would have continued the same way. Next time, I would probably consider which tool to use. However, a couple of small projects that I was asked to help with at the end of the year use Webpack, and after working with them, I realized that Vite has become my default tool.
 
 #### Biome
 
-Положил глаз на этот тул для форматирования и лингтинга кода. К сожалению, пока не было возможности его зтестить на реальном проекте, но в ближайшее время это случится и тогда я смогу поделиться своим опытом. Вообще выглядит очень многообещающе, так что пусть будет в этом списке.
+I kept an eye on this tool for code formatting and linting. Unfortunately, I haven't had the opportunity to test it on a real project yet, but it will happen soon, and then I can share my experience. It looks very promising, so let it be on this list.
 
 #### Astro
 
-Перевёл свой блог на Astro, удалили все старые записи, которые уже совсем нереалеванты. Вообще надо бы как-то на регулярной основе вести свой блог. Создать раздел с проектами, в которых я принимал участие и еще много планов. Правда, я уже делал это много раз и каждый раз забрасывал. Но, надеюсь, что в этот раз всё будет по-другому.
+Moved my blog to Astro and deleted all old posts that were no longer relevant. I really should maintain my blog regularly. Create a section with projects I've been involved in and many more plans. I've done this many times before and always abandoned it. But, hopefully, this time it will be different.
 
-Вообще, опыт использования только положительный. Всё очень просто и понятно. Настройка проекта занимает минимум времени. Всё очень быстро работает. В общем, всё как и обещали.
+Overall, the experience has been positive. Everything is very simple and clear. Project setup takes minimal time. Everything works very quickly. In general, everything went as promised.
 
-### Ситуация на рынке IT
+### IT Market Situation
 
-Выглядит так, как-будто появилось очень много хороших разработчиков, в поисках работы, что очень сильно повысило требования к соискателям и косвенно повлияло на рейты. Так же есть стойкое ощущение, что эра аутсорса заканчивается и многие аутсорсинговые компании испытывают сложности. По крайней мере это картина того, что я вижу по своим знакомым и друзьям. Много где фризы пересмотра зарплат, так же не разрешают делать лвлап, убирают какие-то доп бонусы и прочее. Лично мне видится так, что аутсорс перестанет процветать и компании будут больше напрямую хайрить работников. Всё-таки уже научились определять квалификацию разработчиков по интервью да и ремоут работой теперь никого не удивишь. Так же есть огромное множество тулов для удобной и продуктивной работы для ремоут сотрудников.
+It seems that many good developers looking for work have emerged, significantly raising the requirements for applicants and indirectly affecting rates. There's also a persistent feeling that the era of outsourcing is ending, and many outsourcing companies are facing difficulties. At least that's the picture I see from my acquaintances and friends. Many places freeze salary reviews, don't allow leveling up, remove some additional bonuses, and so on. Personally, it seems to me that outsourcing will cease to thrive, and companies will hire employees more directly. After all, they've already learned to assess the qualifications of developers through interviews, and remote work is no longer surprising. There are also plenty of tools for convenient and productive remote work.
 
-Хотелось бы видеть расцвет продуктовых компаний, хотя у них и так было в целом всё очень неплохо, но, по моему мнению, теперь будет сильно больше желающих устроиться работать к ним, от чего они, не сомнено, должны только выиграть.
+I would like to see the flourishing of product companies, although they are already doing quite well overall. But, in my opinion, there will now be many more people willing to work for them, which they should undoubtedly benefit from.
 
-Вообще очень огорчает, что многие коллеги и друзья часто испытывают дискомфорт от сложившейся ситуации. Но чего скрывать, я и сам частенько сижу и размышляю над всем происходящим, что явно не поднимает боевой настрой. Но я стараюсь держать себя в чувствах и пытаться анализировать ситуацию и делать шаги, чтобы минимизировать риски в будущем.
+It's disheartening that many colleagues and friends often feel uncomfortable due to the current situation. But there's no need to hide it, I also often sit and contemplate everything happening, which definitely doesn't boost morale. But I try to keep myself in check and analyze the situation, taking steps to minimize risks in the future.
 
 ### AI
 
-За этот год случился просто гигантский скачок в технологиях искусственного интеллекта. Очень сложно уследить за всем подряд, но приходится держать руку на пульсе, чтобы не отстать от рынка. Попробовал как работает Copilot, Stable Diffusion и другие нейросетки. Потенциал огромный, но пока не уверен как это всё встроить в свою повседневную жизнь. Да, бывает интересно позадавать вопросы чату GPT, так же использовать его для помощи с переводами или генерации каких-либо небольших текстов, но всё же есть много различных нюансов. В целом технологии очень впечатляют и я уверен что это новое будущее, посмотрим как это всё будет развиваться. Делаю ставку, что это начало новой эры.
+This year witnessed a gigantic leap in artificial intelligence technologies. It's very difficult to keep up with everything, but it's necessary to stay in the loop to avoid falling behind in the market. I tried how Copilot, Stable Diffusion, and other neural networks work. The potential is enormous, but I'm not sure yet how to integrate it all into my daily life. Yes, it's interesting to ask questions to the GPT chat, use it for translation assistance, or generate some small texts, but there are many nuances. In general, the technologies are very impressive, and I'm confident that this is the new future. Let's see how it all develops. I bet this is the beginning of a new era.
 
-## Личное
+## Personal
 
-### Покупка квартиры
+### Apartment Purchase
 
-Самое главное, конечно, это покупка своего первого в жизни жилья. Да, это кредит ипотечный, но всё же это не отменяет тот факт, что жильё теперь вроде как своё - собственное. Выбрали мы небольшой городок, но большие квадраты. В больших городах в последнее время цены взлетели в космос. Мы долго размышляли по поводу вариантов: небольшое жильё, но в большом городе, либо большое жильё в маленьком городе. И, учитывая, что большую часть времени мы находимся дома - выбрали второй вариант. Сильно подробно не буду про это расписывать, но в целом, я очень рад, что мы сделали этот шаг. Жизнь в своей квартире - это уже следующий уровень кайфа и забот.
+The most important thing, of course, is the purchase of my first home. Yes, it's a mortgage, but that doesn't negate the fact that it feels like my own place now. We chose a small town with spacious apartments, as prices in big cities have skyrocketed recently. We debated between a small place in a big city or a large place in a small town. Considering we spend most of our time at home, we chose the latter. I won't go into too much detail, but overall, I'm thrilled that we took this step. Living in our own apartment brings a whole new level of joy and responsibility.
 
-### Смерь моего кота
+### Loss of My Cat
 
-Тут я не могу много чего написать, это самый большой удар для меня за этот год, так точно. У кота были какие-то проблемы со здоровьем, которые врачи не могли установить. Для меня это огромнейший удар, который не отпускает даже по прошествии времени. Я очень любил своего кота, и он навсегда останется в моём сердце. Понимаю, что так бывает и надо двигаться дальше, но каждый раз, когда вспоминаю - на глаза накатывают слёзы. Chewbacca, я очень скучаю.
+I can't write much about this; it's the biggest blow for me this year. My cat had some health issues that doctors couldn't diagnose. It's a massive blow that still lingers over time. I loved my cat dearly, and he'll forever remain in my heart. I understand that these things happen and you have to move on, but every time I think about it, tears well up. Chewbacca, I miss you terribly.
 
-### Кроссфит
+### CrossFit
 
-После того как мне пришлось завязать с американским футболом, из-за травмы плеча я долго не мог найти себе занятие по вкусу. Надо было что-то очень активное, желательно не соло, чтобы прям умирать на тренировках и при всём этом чтобы была возможность заниматься с моей проблемой с подвижностью плеча. Кроссфит давно меня интересовал, попробовал сходить на занятия в местный зал, выбрал тренера рандомно и, как оказалось - не прогадал. Теперь с удовольствием треню 3 раза в неделю в отличной компании и с отличным тренером. Вряд ли мой тренер будет это когда-либо читать, но если вдруг - Michał, привет тебе! :)
+After I had to give up American football due to a shoulder injury, it took me a while to find an activity I enjoyed. It had to be something very active, preferably not solo, challenging in workouts, and accommodating to my shoulder mobility issue. CrossFit had long intrigued me, so I tried classes at a local gym and randomly chose a coach, and it turns out I made the right choice. Now, I happily train three times a week with an excellent group and a great coach. My coach probably won't read this, but if by chance he does - Michał, greetings to you! :)
 
-### Музыка
+### Music
 
-Этот год был довольно обильный на концерты, побывал на мега-крутых концертах SlipKnot, Nick Cave, Enter Shikari. Удивительно, но сделал для себя пару открытий в музыке, что бывает довольно редко. Теперь они не покидают мои плейлисты и я очень рад, что, впервые за долгое время, я нашёл прям что-то новое для себя. Вот и 3 открытия, которые могут заинтересовать и вас (пошарю по одном видео, дальше уже сами найдете):
+This year was rich in concerts; I attended amazing shows by SlipKnot, Nick Cave, and Enter Shikari. Surprisingly, I made a couple of music discoveries, which is rare for me. Now, they don't leave my playlists, and I'm thrilled that, for the first time in a while, I found something new for myself. Here are three discoveries that might interest you:
 
 - [Ren - Hi Ren](https://www.youtube.com/watch?v=s_nc1IVoMxc&ab_channel=Ren)
 - [Charlotte Adigéry & Bolis Pupul - Ceci n'est pas un cliché](https://www.youtube.com/watch?v=37eaA3aWYtM&ab_channel=CharlotteAdig%C3%A9ry%26BolisPupul)
 - [Christian Löffler - Haul](https://www.youtube.com/watch?v=_K-isImH-jc&ab_channel=ChristianL%C3%B6ffler)
 
-А еще, вспомнил, хотел поехать на фестиваль, где должен был выступать Christian Löffler, и среди участников нашёл очень интересного представителя Польской музыки, очень напомнило времена, когда я был участником группы LaBo, просто поделюсь, а то ничего другого Польского пока я для себя не открыл, к сожалению (кстати, отлично подходит для расширения польского лексикона):
+I also remembered wanting to go to a festival where Christian Löffler was supposed to perform and discovered a fascinating representative of Polish music. It reminded me of the times when I was part of the LaBo group. I'll share it; maybe you'll find it interesting:
 
 - [ZDECHŁY OSA - GTA WROCŁAW](https://www.youtube.com/watch?v=5ubUY3j_MJ0&ab_channel=ZDECH%C5%81YOSA)
 
-А на фестиваль так и не попал, к сожалению, мы в это время мы решили слетать в Израиль, очень вовремя успели, как оказалось. Но это уже другая история.
+I didn't make it to the festival, unfortunately. We decided to fly to Israel at that time, which turned out to be perfect timing. But that's another story.
 
-### Дроны
+### Drones
 
-Всегда очень интересовала тема дронов, особенно FPV. Смотрел различные видео и думал, что было бы очень круто научиться летать на FPV, снимать прикольные видео, да и в целом, вдруг IT схлопнется - можно будет устроиться работать оператором дрона. Пока прогресс небольшой, но я уже себе купил аппаратуру и тренируюсь в симуляторе. Потом думаю купить первый tinywhoop, чтобы попробовать свои силы уже на настоящем дроне. Посмотрим, получится ли что-то из этого интереса, буду держать вас в курсе. Правда есть одна проблема, я еще не пробовал ни разу летать в очках, вполне вероятно, что меня будет сильно укачивать и я не смогу с этим совладать. Но пока надеюсь на лучшее и потихньку двигаюсь в этом направлении.
+I've always been interested in drones, especially FPV. I watched various videos and thought it would be cool to learn FPV flying, shoot cool videos, and, who knows, if IT ever collapses, become a drone operator. Progress is slow, but I've bought equipment and practice in a simulator. Later, I plan to buy my first tinywhoop to try my skills on a real drone. Let's see if this interest turns into something; I'll keep you posted. There's one problem, though. I haven't tried flying with goggles yet, and it's likely that I'll get motion sickness and won't be able to cope. But for now, I hope for the best and slowly move in that direction.
 
 ## Conclusion
 
-В целом это короткий список с маркерами, которые были важными в 2023 году. Есть вероятность, что пост придётся обновить, если вдруг что-то вспомню, т.к. я вообще не готовился к написанию данного поста и это всё делается на едином порыве. Что хочу сказать в целом - год был очень сложным и непредсказуемым, но я думаю, что таким он был у всех. И что самое интересно - я не думаю, что дальше будет лучше или проще. Надо адаптироваться под текущие реалии, двигаться вперёд, и становиться лучше самого себя прошлогоднего. С наступающим новым годом, друзья! Пусть я буду не прав и всё будет только лучше, чем я ожидаю. Крепко всех обнимаю, не пропадайте, давайте оставаться на связи!
+This is a short list of markers that were significant in 2023. There's a chance I might have to update the post if I remember something else because I wasn't prepared to write this post, and it's all done in one burst. In general, the year was very challenging and unpredictable, but I don't think it was that way for everyone. Interestingly, I don't believe that the future will be better or easier. We need to adapt to the current realities, move forward, and become better than our past selves. Happy upcoming New Year, friends! May I be wrong, and everything turns out better than I expect. Big hugs to everyone, stay in touch!
