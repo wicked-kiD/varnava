@@ -1,6 +1,6 @@
 ---
 author: Artsiom Varnava
-pubDatetime: 2022-11-25T21:38:00Z
+pubDatetime: 2023-11-25T21:38:00Z
 title: The dilemma of global state
 postSlug: global-state-dilemma
 featured: false
