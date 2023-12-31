@@ -83,7 +83,7 @@ I didn't make it to the festival, unfortunately. We decided to fly to Israel at 
 
 ### Drones
 
-I've always been interested in drones, especially FPV. I watched various videos and thought it would be cool to learn FPV flying, shoot cool videos and, who knows, if IT ever collapses, become a drone operator. Progress is slow, but I've bought equipment and practice in a simulator. Later, I plan to buy my first tinywhoop to try my skills on a real drone. Let's see if this interest turns into something. I'll keep you posted. There's one problem, though. I haven't tried flying with goggles yet and it's likely that I'll get motion sickness and won't be able to cope. But for now, I hope for the best and slowly move in that direction.
+I've always been interested in drones, especially FPV. I watched various videos and thought it would be cool to learn FPV flying, shoot cool videos and, who knows, if IT ever collapses, become a drone operator. Progress is slow, but I've bought equipment and practice in a simulator. Later, I plan to buy my first tinywhoop to try my skills on a real drone. Let's see if this interest turns into something. I'll keep you posted. There's one problem, though. I haven't tried flying with goggles yet, so it's likely that I'll get motion sickness and won't be able to cope. But for now, I hope for the best and slowly move in that direction.
 
 ## Conclusion
 
